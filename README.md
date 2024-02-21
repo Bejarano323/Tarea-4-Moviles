@@ -21,3 +21,11 @@
 ![Screenshot02](<./screenshots/Screnshot2.png>)
 ![Screenshot02](<./screenshots/Screenshot3.png>)
 
+
+## Referencias 
+
+Flutter Community. (2022, Enero 17). Null Aware Operators. Medium. https://medium.com/flutter-community/null-aware-operators-281c18407afe#:~:text=This%20operator%20is%20also%20called,variable%20is%20null%20or%20not.&text=You%20can%20also%20use%20the,the%20nullable%20variables%20has%20null.
+
+
+Flutter. (s.f.). errorBuilder constructor - Image class. Flutter API documentation. https://api.flutter.dev/flutter/widgets/Image/errorBuilder.html
+
