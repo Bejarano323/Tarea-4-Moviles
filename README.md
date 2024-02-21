@@ -1,16 +1,23 @@
-# flutter_application_4
+# Tarea-4 Crypto Look
 
-A new Flutter project.
+## Lo que mas me costo trabajo 
 
-## Getting Started
+  Esta tarea no fue tan complicada, lo mas complicado fue el investigar como manejar los datos nulos, 
+  para esto hice uso de operadores ternarios y algunas otras herramientas como el errorBuilder.
 
-This project is a starting point for a Flutter application.
+## Lo que aprendi
 
-A few resources to get you started if this is your first Flutter project:
+  - Como manejar la falta de algun dato dentro de mis datos
+  - JSON en Dart
+  - Organizar mis Widgets
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Video
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Tarea-4](https://youtu.be/20CLZQE7PPw)
+
+## Screenshots
+
+![Screenshot01](<./screenshots/Screenshot1.png>)
+![Screenshot02](<./screenshots/Screenshot2.png>)
+![Screenshot02](<./screenshots/Screenshot3.png>)
+
