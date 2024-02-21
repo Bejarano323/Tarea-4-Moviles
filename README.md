@@ -18,6 +18,6 @@
 ## Screenshots
 
 ![Screenshot01](<./screenshots/Screenshot1.png>)
-![Screenshot02](<./screenshots/Screenshot2.png>)
+![Screenshot02](<./screenshots/Screnshot2.png>)
 ![Screenshot02](<./screenshots/Screenshot3.png>)
 
